@@ -1,0 +1,44 @@
+#basic python needed libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+nltk
+seaborn
+
+#basic openai libraries
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-experimental
+langchain-openai
+openai
+langchain-groq
+langchain-chroma
+
+#Ohter supporting libraries
+tiktoken
+python-dotenv 
+pydantic        
+
+#DB libraries
+faiss-cpu
+chromadb     
+unstructured       
+
+#API
+fastapi
+uvicorn
+
+#notebooks/experimental
+jupyter
+ipykernel
+
+#for logging
+rich
+
+#for ui
+streamlit
+langchain_text_splitters
+torchvision
