@@ -31,6 +31,8 @@ print(res1.content)
 print("------------------------------------------------------------")
 select = PromptTemplate(template="""Once the candidate is selected for the job role, you need to ask his notice period, if notice period is serving, any offer in hand and salary expecation.
                         then create a offer letter based on the data provided.
+                        job title: {pos}
+                        company name: ZackMack
                         notice period: {np}
                         serving notice period: {snp}
                         offer in hand: {oh}
@@ -41,6 +43,6 @@ snp = str(input("Are you serving notice period?"))
 oh = str(input("Are you holding offer in hand?"))
 se = str(input("enter your salary expecation?"))
 chain2 = select | llm
-res3 = chain2.invoke({'np':np,'snp':snp,'oh':oh,'se':se})
+res3 = chain2.invoke({'pos':ip1,'np':np,'snp':snp,'oh':oh,'se':se})
 print(res3.content)
 print("------------------------------------------------------------")
