@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 class Few_Shot_Posts:
-    def __init__(self, file_path = "C:\\Users\\Nayan\\Downloads\\GenAIProjects\\LinkedINPostGenerator\\data\\processed_posts.json"):
+    def __init__(self, file_path = "LinkedINPostGenerator\\data\\processed_posts.json"):
         self.df = None # dataframe
         self.unique_tags = None
         self.load_posts(file_path)
