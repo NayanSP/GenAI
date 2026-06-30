@@ -1,0 +1,201 @@
+Rain tapped the windows of the Harbor City police station like impatient fingers when Detective Mara Vale first saw the message.
+
+It glowed on the victim’s laptop in pale blue letters, hidden inside a trail of blockchain transactions. The victim, a kind-faced gallery owner named Mr. Orlin, stood behind her with shaking hands.
+
+“They took everything,” he said. “All the money from the charity art sale. It was supposed to build a new library wing.”
+
+Mara leaned closer to the screen. The stolen funds had moved through a chain of digital wallets, each one leaving a permanent mark. Most thieves tried to hide their tracks. This one had left a trail.
+
+And a note.
+
+Plain sight is still sight. Next time, don’t tape the key under the welcome mat.
+
+Mara’s eyes narrowed. “What does that mean?”
+
+Mr. Orlin turned red with embarrassment. “My password,” he whispered. “I wrote it on a sticky note. I thought it was safe because I kept it inside an old picture frame in my office.”
+
+Mara looked toward the rain-dark window. “Someone knew where to look.”
+
+By midnight, the cybercrimes unit sent her help. His name was Eli Noor, a cybersecurity analyst with quiet eyes, rolled-up sleeves, and a habit of thinking before he spoke. He carried a laptop covered in faded stickers from science fairs and old community tech programs.
+
+“You’re Detective Vale?” he asked.
+
+“Mara is fine,” she said. “If you can find my thief, I’ll call you anything you want.”
+
+A small smile touched his face. “Let’s start with Eli.”
+
+They worked side by side in the low hum of the station. Coffee cooled between them. Rain blurred the city lights outside. Eli followed the blockchain trail, tracing the stolen donation through dozens of transfers.
+
+“It’s like footprints in wet cement,” he said. “They can’t erase them. They can only make them confusing.”
+
+Mara watched the lines and numbers crawl across his screen. “And that message?”
+
+“That’s vanity,” Eli said. “The thief wants someone to notice. Smart criminals hide. Proud ones perform.”
+
+Mara liked the way he said it. Calm, clear, with no need to show off.
+
+At two in the morning, the trail stopped at a digital wallet named The Magpie.
+
+“Magpies steal shiny things,” Mara said.
+
+“And sometimes leave shiny things behind,” Eli replied.
+
+Inside The Magpie wallet was another message.
+
+Detective Vale, if you are reading this, you are already late.
+
+Mara went still. “They know I’m on the case.”
+
+Eli’s smile vanished. “Or they knew you would be.”
+
+The next day, Mara visited Mr. Orlin’s gallery. It smelled of varnish, old wood, and lilies from the front desk. Paintings lined the walls, bright splashes of color against white stone. In the office, Mara studied the empty picture frame where the password had been hidden.
+
+“Who had access?” she asked.
+
+“My staff,” Mr. Orlin said. “Artists. Donors. Volunteers. I trusted everyone.”
+
+“That’s usually where trouble starts,” Mara said, though gently.
+
+A young assistant named Tessa walked in carrying a box of receipts. She had nervous hands and tired eyes.
+
+“I heard about the theft,” Tessa said. “It’s awful.”
+
+“Where were you last night?” Mara asked.
+
+“At home. My brother can confirm.”
+
+Mara noticed a smudge of black paint on Tessa’s wrist. On the wall behind her hung a painting of a black bird with silver wings.
+
+A magpie.
+
+Mara took a slow breath. “Who painted that?”
+
+Tessa looked up. “A local artist. Riven Cole. He helped set up the auction website too. He was brilliant with computers.”
+
+“Was?” Mara asked.
+
+“He stopped coming around two weeks ago.”
+
+Back at the station, Eli searched the auction records. Riven Cole had designed the donation page. He also had a minor criminal record for trespassing in a corporate server room when he was nineteen. Nothing stolen then. Just a message left behind that said, Your locks are made of paper.
+
+Mara stared at his photo. Young, sharp chin, confident eyes. “That sounds like our poet.”
+
+Eli nodded. “Maybe. But something bothers me. The thief could have taken the money and vanished. Instead, they left clues leading straight to Riven.”
+
+“You think he’s being framed?”
+
+“I think someone wants us to stop thinking.”
+
+Mara leaned back, looking at him. Eli rubbed his eyes, exhausted, but his voice stayed steady. She realized she trusted him. That was rare for her. Rarer still, she wanted him to look up and smile again.
+
+He did.
+
+“What?” he asked.
+
+“Nothing,” she said too quickly.
+
+His smile softened. “Detective, you are very bad at nothing.”
+
+Before she could answer, his computer chimed.
+
+A new transaction had appeared. One coin, barely worth anything, sent from The Magpie to a public charity wallet. Attached was another message.
+
+Ask the girl with paint on her wrist why she cried at midnight.
+
+Mara and Eli drove to Tessa’s apartment as dawn colored the streets gray. Tessa opened the door in pajamas, her face pale.
+
+“I didn’t steal anything,” she said before Mara spoke.
+
+“But you know who did,” Mara said.
+
+Tessa’s eyes filled with tears. “Riven came to me last night. He was scared. He said someone used his old code to steal the donations. He said if he went to the police, they’d blame him. He asked me for money to leave town.”
+
+“Where is he now?”
+
+“I don’t know. But he left this.”
+
+She handed Mara a folded sketch. It showed a bridge over the river, and beneath it, a small symbol of a magpie. On the back was written, Midnight knows what morning hides.
+
+Eli studied it. “There’s an old storage building under North Quay Bridge. Artists use it sometimes.”
+
+Mara looked at the brightening sky. “Then we go before midnight.”
+
+They found the building near the river, its windows boarded, its brick walls wet from rain. Inside, dust hung in the air. Old canvases leaned against crates. A single computer monitor glowed in the dark.
+
+Riven Cole sat tied to a chair.
+
+Mara rushed to him and cut the cord around his wrists. He was bruised but alive.
+
+“I didn’t steal the money,” he gasped. “It was Leon Vass.”
+
+“The donor?” Mara asked. Leon Vass was a wealthy businessman who had given a speech at the charity auction.
+
+Riven nodded. “He found Mr. Orlin’s password months ago. Used my auction code. He planned to steal the funds, blame me, then return half later as a ‘generous rescue donation.’ He wanted praise.”
+
+Eli’s face tightened. “And the messages?”
+
+“Leon wrote them. He loves feeling clever.”
+
+A soft clap echoed from the shadows.
+
+Leon Vass stepped into the glow of the monitor, holding a small remote device. His silver coat was spotless despite the damp. Two hired guards stood behind him.
+
+“How disappointing,” Leon said. “I expected more confusion.”
+
+Mara moved in front of Eli and Riven. “Police are on their way.”
+
+Leon smiled. “Not fast enough.”
+
+The guards advanced.
+
+Mara grabbed an old canvas and shoved it into the first guard’s path. Eli pulled Riven behind a stack of crates. The second guard lunged, and Mara ducked, sweeping his legs with all the force she had. He crashed down hard.
+
+Leon backed toward the computer. “One press,” he said, lifting the device, “and the last access key is destroyed. The money disappears forever.”
+
+Eli stepped out. His voice was calm, but Mara saw fear in his eyes. Not for himself. For her.
+
+“You already lost,” Eli said.
+
+Leon laughed. “Did I?”
+
+Eli turned his laptop around. “Your wallet just signed a recovery transfer. You were so proud of hiding messages on the blockchain that you didn’t notice Riven hid one too. A safety lock in the auction code. The charity funds are frozen and flagged.”
+
+Leon’s face went white.
+
+Mara saw his hand twitch toward the remote. She moved before he could press it. With one clean motion, she knocked it from his grip. It skidded across the floor and splashed into a puddle. Sirens wailed outside, growing louder.
+
+Leon stared at the water, then at Mara. “You can’t prove intent.”
+
+Mara picked up the soaked device with a handkerchief. “You mocked a victim for trusting the wrong person. That was your mistake. Cruel people always leave fingerprints where kindness was wounded.”
+
+The police stormed in. Leon and his guards were taken away as the first light of morning spilled through cracks in the boards.
+
+Outside, the rain had stopped. The river shone like a ribbon of steel. Riven sat in an ambulance, wrapped in a blanket. Mr. Orlin arrived moments later, breathless, and wept when Mara told him the donations were safe.
+
+Eli stood beside her on the bridge, the wind lifting his dark hair.
+
+“You were brave in there,” Mara said.
+
+“So were you.”
+
+“That’s my job.”
+
+He glanced at her. “Then what do you do when you’re off duty?”
+
+Mara looked at the river, then at him. After a night of thieves, lies, and hidden keys, the simple truth felt more dangerous than any chase.
+
+“I was thinking,” she said, “I might get coffee with someone who knows too much about footprints in wet cement.”
+
+Eli’s smile came slowly, warm as sunrise. “I know a place.”
+
+Mara’s phone buzzed. A final blockchain message had appeared from Riven’s safety lock, released when the funds were secured.
+
+Some things hidden in plain sight are not passwords. Sometimes they are warnings. Sometimes they are hope.
+
+Mara read it aloud, and for a moment neither of them spoke.
+
+The city woke around them. Somewhere, a library would be built. Somewhere, children would read under bright windows because a cruel man had been caught, a frightened artist had told the truth, and a detective had followed a trail no rain could wash away.
+
+Mara slipped her phone into her pocket and walked beside Eli into the morning.
+
+Behind them, the river carried the last shadows out to sea.
