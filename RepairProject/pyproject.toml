@@ -1,0 +1,56 @@
+[project]
+name = "repairproject"
+version = "0.1.0"
+description = "Machine Learning and GenAI project with MLflow"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    # Data processing and visualization
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "scipy",
+
+    # Traditional machine learning
+    "scikit-learn",
+    "xgboost",
+    "imbalanced-learn",
+    "statsmodels",
+
+    # Deep learning
+    "torch",
+
+    # MLflow experiment tracking and model management
+    "mlflow",
+
+    # GenAI and LLM integration
+    "openai",
+    "langchain",
+    "langchain-core",
+    "langchain-community",
+    "langchain-openai",
+    "langgraph",
+
+    # RAG and vector databases
+    "chromadb",
+    "faiss-cpu",
+    "sentence-transformers",
+
+    # Document loading and processing
+    "pypdf",
+    "python-docx",
+    "openpyxl",
+
+    # API development for model serving
+    "fastapi",
+    "uvicorn",
+
+    # Configuration and data validation
+    "python-dotenv",
+    "pydantic",
+
+    # HTTP requests and retry handling
+    "httpx",
+    "tenacity"
+]

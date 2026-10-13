@@ -1,0 +1,14 @@
+# Create a virtual environment and install dependencies
+uv sync
+
+# Activate the environment on Windows
+.venv\Scripts\activate
+
+# Run your Python script
+uv run main.py
+
+uv sync
+uv run mlflow --version
+uv run python -c "import sklearn, mlflow, langchain, chromadb; print('Setup successful')"
+
+uv run mlflow server --host 127.0.0.1 --port 5000
