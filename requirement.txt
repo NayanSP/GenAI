@@ -42,6 +42,5 @@ rich
 streamlit
 langchain_text_splitters
 torchvision
+streamlit_chat
 
-#voice
-TTS
