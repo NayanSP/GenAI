@@ -16,6 +16,8 @@ langchain-openai
 openai
 langchain-groq
 langchain-chroma
+langchain_pinecone
+pinecone
 
 #Ohter supporting libraries
 tiktoken
@@ -43,4 +45,5 @@ streamlit
 langchain_text_splitters
 torchvision
 streamlit_chat
+utils
 
